@@ -1,15 +1,12 @@
-# [Assistente Financeiro]
-
+# [Nome do Projeto]
 ## Sobre o Projeto
-**Projeto:** [Assistente Financeiro]
-**Problema que resolve:** [Aplicação voltada ao controle de gastos pessoais.]
-
+**Projeto:** [nome do projeto da lista]
+**Problema que resolve:** [uma frase descrevendo o problema]
 ## Integrantes
 | Nome | GitHub |
 |------|--------|
-| [Izabelle Vitória dos Santos] | [@izabellevitorias] |
-| [Julia Baxega dos Reis] | [@Juliabxreis] |
-| [Guilherme Paulino dos Santos Alves] | [@usuario3] |
-
+| [Nome 1] | [@usuario1] |
+| [Nome 2] | [@usuario2] |
+| [Nome 3] | [@usuario3] |
 ## Arquitetura
 > *A ser preenchido na Aula 6*
