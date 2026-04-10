@@ -9,7 +9,7 @@
 |------|--------|
 | [Izabelle Vitória dos Santos] | [@izabellevitorias] |
 | [Julia Baxega dos Reis] | [@Juliabxreis] |
-| [Guilherme Paulino dos Santos Alves] | [@] |
+| [Guilherme Paulino dos Santos Alves] | [@guipaulino0202] |
 
 ## Arquitetura
-> *A ser preenchido*
+> *A ser preenchido na Aula 6**
